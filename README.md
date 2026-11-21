@@ -1,4 +1,4 @@
-# ia-codyssey
+# Codyssey-AINative
 
 ## 프로젝트 소개
 
